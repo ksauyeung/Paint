@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="paint.validator.AbstractDimensionRangeValidatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-03-08T13:22:57" hostname="SHOPPER" time="0.27">
+  <properties/>
+  <testcase name="validateShouldReturnFalseForNegativeStartCoordinates" classname="paint.validator.AbstractDimensionRangeValidatorTest" time="0.27"/>
+  <testcase name="validateShouldReturnFalseForNullRange" classname="paint.validator.AbstractDimensionRangeValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

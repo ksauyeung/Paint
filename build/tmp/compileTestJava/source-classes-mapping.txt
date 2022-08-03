@@ -1,0 +1,32 @@
+paint/brush/LineTest.java
+ paint.brush.LineTest
+paint/renderer/CharacterRendererTest.java
+ paint.renderer.CharacterRendererTest
+paint/RangeTest.java
+ paint.RangeTest
+paint/store/ObjectArrayBufferTest.java
+ paint.store.ObjectArrayBufferTest
+paint/ink/LetterTest.java
+ paint.ink.LetterTest
+paint/validator/AbstractDimensionRangeValidatorTest.java
+ paint.validator.AbstractDimensionRangeValidatorTest
+paint/ink/InkPaletteTest.java
+ paint.ink.InkPaletteTest
+paint/ink/InkKeyTest.java
+ paint.ink.InkKeyTest
+paint/validator/TwoDimensionRangeValidatorTest.java
+ paint.validator.TwoDimensionRangeValidatorTest
+paint/SimpleCanvasTest.java
+ paint.SimpleCanvasTest
+paint/brush/BucketTest.java
+ paint.brush.BucketTest
+paint/brush/AbstractBrushTest.java
+ paint.brush.AbstractBrushTest
+paint/brush/RectangleTest.java
+ paint.brush.RectangleTest
+paint/validator/ZeroDimensionRangeValidatorTest.java
+ paint.validator.ZeroDimensionRangeValidatorTest
+paint/validator/OneDimensionRangeValidatorTest.java
+ paint.validator.OneDimensionRangeValidatorTest
+paint/brush/SimpleBrushFactoryTest.java
+ paint.brush.SimpleBrushFactoryTest
