@@ -30,46 +30,22 @@ End coordinates are allowed to be outside of canvas, i.e., MSPaint behavior. Of 
 Below is a sample run of the program. User input is prefixed with enter command:
 
 enter command: C 20 4
-----------------------
-|                    |
-|                    |
-|                    |
-|                    |
-----------------------
+Defines a canva of width:20 height:4
 
 enter command: L 1 2 6 2
-----------------------
-|                    |
-|xxxxxx              |
-|                    |
-|                    |
-----------------------
+Draws a Line from (1,2) to (6,2)
 
 enter command: L 6 3 6 4
-----------------------
-|                    |
-|xxxxxx              |
-|     x              |
-|     x              |
-----------------------
+Draws a Line from (6,3) to (6,4)
 
 enter command: R 14 1 18 3
-----------------------
-|             xxxxx  |
-|xxxxxx       x   x  |
-|     x       xxxxx  |
-|     x              |
-----------------------
+Draws a rectangle from corner (14,1) to corner (18,3)
 
 enter command: B 10 3 o
-----------------------
-|oooooooooooooxxxxxoo|
-|xxxxxxooooooox   xoo|
-|     xoooooooxxxxxoo|
-|     xoooooooooooooo|
-----------------------
+Fills the space "outside" of the lines an rectangle drawn by the above commands
 
 enter command: Q
+Quites the program
 
 
 
