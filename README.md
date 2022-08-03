@@ -93,6 +93,7 @@ InkPalette - Palette, holds any Inks
 SamplePainter - Painter, a simple painter that asks users for what to do via on-screen command prompt, draws on the canvas
 
 ------- The Idea ----------
+
 The idea is that Painter....
 1. defines a canvas.
 2. Selects a brush from the palette
@@ -100,5 +101,6 @@ The idea is that Painter....
 4. Renderer renders the canvas 
 
 -------- TODO -------------
+
 Rewrite Bucket using threads to be more performant.
 Support diagonal lines
